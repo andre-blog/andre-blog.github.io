@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       安德烈
+email:       andre.blog.contact@gmail.com
+author:      安德烈
+description: "歡迎來到安德烈部落格，一個非營利的知識型網站。"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://andre-blog.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
