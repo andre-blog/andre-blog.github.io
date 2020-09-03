@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 關於安德烈部落格
+title: 關於
 permalink: /about/
 tags: about
 ---
