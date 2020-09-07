@@ -1,0 +1,30 @@
+---
+layout:     post
+title:      好書推薦：都是大腦搞的鬼
+date:       2020-09-08
+summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+categories: jekyll pixyll
+---
+
+親愛的讀者朋友：
+
+不是每個人都對心理學及神經科學有興趣，但安德烈相信多數人會想要了解自己的心理狀態，明白自己的大腦如何做出決策。
+
+因此，今天安德烈要向你推薦一本好書：謝伯讓教授的《都是大腦搞的鬼》。
+
+Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
+
+It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
+
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+## Where is it?
+
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it, request a feature, or report a bug.
+
+It's free, and open source ([MIT](http://opensource.org/licenses/MIT)).
